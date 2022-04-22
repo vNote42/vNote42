@@ -2,7 +2,7 @@
 - 👀 I’m interested in automating VMware and Veeam products 
 - 🌱 I’m currently learning GitHub :)
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: wolfgang@protonmail.com
+- 📫 How to reach me: wolfgang [at] protonmail.com
 
 <!---
 vNote42/vNote42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
